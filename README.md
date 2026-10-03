@@ -1,5 +1,9 @@
 # TP3 - GameCloud API Serverless
 
+<img width="1912" height="841" alt="image" src="https://github.com/user-attachments/assets/1c91f93e-9e7d-4905-87c5-273fadf55083" />
+
+
+
 ## Objetivo
 Implementar y desplegar una arquitectura Serverless desacoplada y altamente disponible sobre AWS (simulada localmente con MiniStack / LocalStack). El sistema expone un frontend estático para los juegos **Doom** y **Pac-Man**, procesa los puntajes de los jugadores de forma asíncrona mediante colas de mensajes (SQS) y funciones Lambda, y persiste los datos en una base NoSQL (DynamoDB).
 
